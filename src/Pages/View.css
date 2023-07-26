@@ -1,0 +1,27 @@
+.card{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    align-content: center;
+    margin: 0 auto;
+    
+}
+.card:hover{
+ 
+   transform: scale(1.2);
+}
+.card-header{
+    height: 30%;
+    background-color: #5d6770;
+    color: white;
+    text-align: center;
+
+}
+.card-header{
+    font-size: 20px;
+
+}
+.containerr{
+padding: 4px 16px;
+}
